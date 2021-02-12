@@ -6,5 +6,10 @@ anji
 naveen
 basha
 pakisthan
+<<<<<<< HEAD
 sd
 kishore
+=======
+manu
+teja
+>>>>>>> development
