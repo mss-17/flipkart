@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> beab0f4... updated
 my friends:
 basha
 madhu
